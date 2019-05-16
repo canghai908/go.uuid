@@ -63,6 +63,8 @@ func main() {
 
 [Documentation](http://godoc.org/github.com/satori/go.uuid) is hosted at GoDoc project.
 
+go mod
+
 ## Links
 * [RFC 4122](http://tools.ietf.org/html/rfc4122)
 * [DCE 1.1: Authentication and Security Services](http://pubs.opengroup.org/onlinepubs/9696989899/chap5.htm#tagcjh_08_02_01_01)
